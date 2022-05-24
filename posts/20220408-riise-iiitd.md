@@ -15,8 +15,15 @@ The talk was about Chat Bots and Conversational AI Systems. The speaker talked a
 ## [Engineering] Project Vimaan <a name="project-vimaan"></a>
 
 Project Vimaan is a team of 4 IIITD undergrads aiming to build infrastructure for drones and UAVs (Unmanned Aerial Vehicles). They are doing so by building battery charging pods and building drones that land autonomously on these pods (using precision landing), replace old-discharged battery with a new-charged battery, and continue flying. 
-The presentation saw them showing videos of test flights, showing drones and individual components used, and giving a test flight to show their idea. Pretty cool! Meet the team (from L -> R) Dev Rajput, Aniansh Raj Singh, Harsh, and Bassam Pervez. 
+The presentation saw them showing videos of test flights, showing drones and individual components used, and giving a test flight to show their idea. Pretty cool! 
+
+Meet the team (from L -> R) Dev Rajput, Aniansh Raj Singh, Harsh, and Bassam Pervez. 
+![20220408_100932](https://user-images.githubusercontent.com/55680959/170121611-eb012390-a5e9-4a69-9a32-6ad9f9d1cef4.jpg)
+
+
 You can also find Aniansh going around the college with drones flying over his head :)
+![20220408_100954](https://user-images.githubusercontent.com/55680959/170121629-0ce890ac-1168-4c22-b5ec-9053af35a0cf.jpg)
+
 ## [Research] Wireless Federated Learning <a name="federated-learning-metalhead"></a>
 
 ## [Research] Building Explainable AI Systems <a name="explainable-ai-devansh"></a>
