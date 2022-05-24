@@ -26,5 +26,10 @@ You can also find Aniansh going around the college with drones flying over his h
 
 ## [Research] Wireless Federated Learning <a name="federated-learning-metalhead"></a>
 
+Federated Learning is a different (and privacy focussed) way to think about Machine Learing. Instead of all clients sending their data to the central server, the clients train the model on their own device (since edge devices like mobile-phones have become powerful enough to do such computation) and only send parameter updates to the central server. You can read more Federated Learning on [Google Tech Talks Youtube Channel](https://www.youtube.com/user/GoogleTechTalks/featured). 
+Ayush (a.k.a MetalHead) and Divin are contributing to this domain. Meet the team (L->R) Ayush and Divin.
+
+
 ## [Research] Building Explainable AI Systems <a name="explainable-ai-devansh"></a>
 
+AI Systems are usually considered as black-bloxes with no way to reason about their workings. Devansh is trying to change that perception by building systems that can explain AI models. Meet Devansh!
