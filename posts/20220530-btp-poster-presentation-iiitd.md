@@ -1,4 +1,5 @@
 # IIIT-D BTP Poster Presentation 2022
+![20220513_055107](https://user-images.githubusercontent.com/55680959/171044983-00bde32c-0eb5-4371-bd1f-676e8b92da6d.jpg)
 
 [IIIT-D](#https://www.iiitd.ac.in) provides undergraduate students a unique opportunity to participate in research / engineering / entrepreunership projects. They do so by contributing to projects led by Professors / PhD students. 
 
